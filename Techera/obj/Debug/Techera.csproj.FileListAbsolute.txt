@@ -1,0 +1,13 @@
+D:\VSProject\Techera\bin\Debug\Techera.exe.config
+D:\VSProject\Techera\bin\Debug\Techera.exe
+D:\VSProject\Techera\bin\Debug\Techera.pdb
+D:\VSProject\Techera\obj\Debug\Techera.csproj.AssemblyReference.cache
+D:\VSProject\Techera\obj\Debug\Techera.csproj.SuggestedBindingRedirects.cache
+D:\VSProject\Techera\obj\Debug\Techera.Form1.resources
+D:\VSProject\Techera\obj\Debug\Techera.Properties.Resources.resources
+D:\VSProject\Techera\obj\Debug\Techera.csproj.GenerateResource.cache
+D:\VSProject\Techera\obj\Debug\Techera.csproj.CoreCompileInputs.cache
+D:\VSProject\Techera\obj\Debug\Techera.exe
+D:\VSProject\Techera\obj\Debug\Techera.pdb
+D:\VSProject\Techera\bin\Debug\Guna.UI2.dll
+D:\VSProject\Techera\obj\Debug\Techera.csproj.CopyComplete
