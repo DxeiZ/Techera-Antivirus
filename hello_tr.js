@@ -1,2 +1,2 @@
-//test try entegre
+//test try entegr
 console.log("Merhaba Dünya");
